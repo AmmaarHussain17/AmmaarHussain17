@@ -1,7 +1,8 @@
+![Banner Image](https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif)
+
 <h1 align="center">Hi 👋, I'm Mohammed Ammaar Hussain</h1>
 <h3 align="center">A passionate software developer with hands-on experience in web development, full-stack application development and coding instruction.</h3>
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ammaarhussain17&label=Profile%20views&color=0e75b6&style=flat" alt="ammaarhussain17" /> </p>
 
