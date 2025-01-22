@@ -15,8 +15,6 @@
 
 - 📫 Reach out to me through **ammaarhussain2002@gamil.com**
 
-- 📄 Explore my professional background [https://drive.google.com/file/d/1_bmPaPRXIXUObCaQKe055J05TE717DkI/view?usp=sharing](https://drive.google.com/file/d/1_bmPaPRXIXUObCaQKe055J05TE717DkI/view?usp=sharing)
-
 - ⚡ Fun insight **I have a Good Sense of Humour**
 
 <h3 align="left">Connect with me:</h3>
