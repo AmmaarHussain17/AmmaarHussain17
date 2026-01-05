@@ -9,9 +9,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ammaarhussain17" alt="ammaarhussain17" /></a> </p>
 
-- 🌱 I’m currently enhancing my knowlegde on **Data Structures and Algorithms.**
+- 🌱  **.**
 
-- 💬 I am available to discuss about **C/C#, Java.**
+- 💬 **
 
 - 📫 Reach out to me through **ammaarhussain2002@gamil.com**
 
