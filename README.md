@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ammaarhussain17" alt="ammaarhussain17" /></a> </p>
 
-- 🌱  **.**
+- 🌱  **Daily Learning and Tackling into world of programming**
 
 - 💬 **
 
