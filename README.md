@@ -11,7 +11,7 @@
 
 - 🌱  **Daily Learning and Tackling into world of programming**
 
-- 💬 *Coding is so much fun...Truly*
+- 💬 *Coding is so much fun...*
 
 - 📫 Reach out to me through **ammaarhussain2002@gamil.com**
 
